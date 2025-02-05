@@ -9,7 +9,6 @@ import comtypes.client
 customers = [['Company, LLC', '08/30/2024', '100', 1200, '1,200.00'],
              ['Enterprise', '08/22/2024', '100', 1234.56, '1,234.56']]
 
-# 34 entries
 
 template_path = "1234-100 Template FINAL LIEN WAIVER.docx"
 
